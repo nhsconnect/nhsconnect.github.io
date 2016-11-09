@@ -1,0 +1,13 @@
+title: NHS Connect - Open APIs
+author: NHS Connect
+email: michael.measures@nhs.net
+description: >
+  NHS Connect is an initative to deliver open standards based API access to healthcare systems and data. 
+baseurl: ""
+url: "https://nhsconnect.github.io"
+twitter_username: nhsconnectapi
+github_username:  nhsconnect
+
+# Build settings
+markdown: kramdown
+theme: minima
